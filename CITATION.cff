@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "InSAR-SBAS Hoya de Loja (2019–2026)"
+message: "If you use this repository or its software workflow, please cite it using the following metadata."
+type: software
+authors:
+  - family-names: "Bravo-Granda"
+    given-names: "Byron Antonio"
+    affiliation: "Universidad San Gregorio de Portoviejo"
+  - family-names: "Abarca-Abarca"
+    given-names: "Adan Saúl"
+    affiliation: "Universidad San Gregorio de Portoviejo"
+repository-code: "https://github.com/thegeologist7-blip/insar-sbas-hoya-de-loja"
+license: "MIT"
+version: "1.0.0"
+date-released: "2026-09-29"
+abstract: "Reproducible InSAR-SBAS workflow for estimating LOS surface-deformation velocities from Sentinel-1 data in the Hoya de Loja, Ecuador, for the 2019–2026 study period."
+keywords:
+  - "InSAR"
+  - "SBAS"
+  - "Sentinel-1"
+  - "MintPy"
+  - "HyP3"
+  - "surface deformation"
+  - "LOS velocity"
+  - "Hoya de Loja"
+  - "Ecuador"
