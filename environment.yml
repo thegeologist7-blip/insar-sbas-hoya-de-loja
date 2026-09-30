@@ -1,0 +1,21 @@
+name: mintpy
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy>=1.24
+  - scipy>=1.10
+  - matplotlib>=3.7
+  - h5py>=3.8
+  - rasterio>=1.3
+  - geopandas>=0.13
+  - shapely>=2.0
+  - pyproj>=3.5
+  - pip
+  - pip:
+    - mintpy==1.6.2
+    - hyp3_sdk>=2.0
+    - asf_search>=6.0
+    - pyaps3==0.3.7
+    - cdsapi>=0.6
